@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="90%" src="https://user-images.githubusercontent.com/97003071/179996461-bf7a3b82-d50e-4429-97f0-49f149b07886.png"
+  <img width="90%" src="https://www.canva.com/design/DAGBS6hVTV0/1VTNxXIS5tVxJdzM3-AbZA/edit?utm_content=DAGBS6hVTV0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
   <a href="https://github.com/GabrielaJung">
 </div>
       
