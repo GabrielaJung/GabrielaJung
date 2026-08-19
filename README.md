@@ -6,8 +6,10 @@
       
       
 <div align="center">
-  <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielaJung&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="40.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielaJung&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="200"
+    align="center" src="https://github-stats-extended.vercel.app/api?username=GabrielaJung&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>  
+  <img height="200"
+    align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielaJung&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 #####
